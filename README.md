@@ -16,3 +16,7 @@
 --
 [Rest Api](https://github.com/5hre9a/RestAPI)
 --
+[Blog app](https://github.com/5hre9a/blog-app)
+--
+[Duck hunt game](https://github.com/5hre9a/duckhunt-game)
+--
