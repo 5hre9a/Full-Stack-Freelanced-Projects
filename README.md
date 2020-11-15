@@ -6,6 +6,7 @@
 --
 [Bubbly-boo Website](https://github.com/5hre9a/bubbly-boo)
 --
+[Stmarysmagz website](https://github.com/5hre9a/StMarysMagz-Website)
 [Secrets app](https://github.com/5hre9a/secrets-app)
 --
 [2 in 1 calculator app](https://github.com/5hre9a/Calculator-app)
